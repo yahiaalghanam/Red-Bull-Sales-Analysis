@@ -1,5 +1,7 @@
 # Red Bull Sales and Marketing Analysis Dashboard 🥤
+![Dashboard Preview](https://github.com/yahiaalghanam/Red-Bull-Sales-Analysis/blob/59197498936fd887e829331a48290e8664041a77/images/Redbull%20Sales%20%20Analysis.PNG)
 
+![Dashboard Preview](https://github.com/yahiaalghanam/Red-Bull-Sales-Analysis/blob/59197498936fd887e829331a48290e8664041a77/images/Cans%20Edition%20Analysis.PNG)
 ## Overview
 This project focuses on analyzing Red Bull's sales and marketing performance through an interactive dashboard built using **Power BI**. The dashboard provides key insights into revenue trends, product performance, and the effectiveness of different marketing channels, helping drive better decision-making and optimize strategies.
 
@@ -27,3 +29,10 @@ The goal of this project was to help Red Bull gain a better understanding of the
 
 ## Acknowledgments
 This project was completed as part of a learning experience provided by **Forage**.
+
+
+
+
+
+
+
